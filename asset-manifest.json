@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phiaal/static/css/main.e1fd91bc.css",
+    "main.js": "/phiaal/static/js/main.ecbbdf2c.js",
+    "static/js/787.29b39e93.chunk.js": "/phiaal/static/js/787.29b39e93.chunk.js",
+    "index.html": "/phiaal/index.html",
+    "main.e1fd91bc.css.map": "/phiaal/static/css/main.e1fd91bc.css.map",
+    "main.ecbbdf2c.js.map": "/phiaal/static/js/main.ecbbdf2c.js.map",
+    "787.29b39e93.chunk.js.map": "/phiaal/static/js/787.29b39e93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1fd91bc.css",
+    "static/js/main.ecbbdf2c.js"
+  ]
+}
